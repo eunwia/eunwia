@@ -1,5 +1,5 @@
 <div align="center">
-<img src="rain.png" alt="Trixette Rain" width="200" style="border-radius: 50%;" />
+<img src="rain.png" alt="Trixette Rain" width="300" style="border-radius: 50%;" />
 <br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=F4A7B9&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+Trixette+Rain!+%F0%9F%8C%B8;IT+Student+%7C+Aspiring+Developer+%7C+Designer+%F0%9F%8C%B8)
