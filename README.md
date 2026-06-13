@@ -4,7 +4,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=F4A7B9&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+Trixette+Rain!+%F0%9F%8C%B8;IT+Student+%7C+Aspiring+Developer+%7C+Designer+%F0%9F%92%97)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=F4A7B9&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+Trixette+Rain!+%F0%9F%8C%B8;IT+Student+%7C+Aspiring+Developer+%7C+Designer+%F0%9F%8C%B8)
 
 <p>
   <img src="https://img.shields.io/badge/University%20of%20Cebu-IT%20Student-ffb6c1?style=for-the-badge&logo=graduation-cap&logoColor=white" />
