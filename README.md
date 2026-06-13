@@ -17,34 +17,99 @@
 
 ## 🌷 Tech Stack & Skills
 
-| 📱 Mobile Development | 🌐 Web Development | 🗄️ Database | 💻 Languages | 🛠️ Tools |
-|---|---|---|---|---|
-| ![Android](https://img.shields.io/badge/Android-Java-f48fb1?style=for-the-badge&logo=android&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core%20MVC-fce4ec?style=for-the-badge&logo=dotnet&logoColor=c2185b) | ![MySQL](https://img.shields.io/badge/MySQL-fce4ec?style=for-the-badge&logo=mysql&logoColor=c2185b) | ![Java](https://img.shields.io/badge/Java-fce4ec?style=for-the-badge&logo=openjdk&logoColor=c2185b) | ![VS Code](https://img.shields.io/badge/VS%20Code-f48fb1?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| ![Android Studio](https://img.shields.io/badge/Android%20Studio-f8bbd0?style=for-the-badge&logo=androidstudio&logoColor=white) | ![React](https://img.shields.io/badge/React-f48fb1?style=for-the-badge&logo=react&logoColor=white) | ![MariaDB](https://img.shields.io/badge/MariaDB-f8bbd0?style=for-the-badge&logo=mariadb&logoColor=c2185b) | ![C#](https://img.shields.io/badge/C%23-f8bbd0?style=for-the-badge&logo=csharp&logoColor=c2185b) | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-fce4ec?style=for-the-badge&logo=visualstudio&logoColor=c2185b) |
-| | ![HTML](https://img.shields.io/badge/HTML5-f8bbd0?style=for-the-badge&logo=html5&logoColor=c2185b) | ![SQLite](https://img.shields.io/badge/SQLite-f48fb1?style=for-the-badge&logo=sqlite&logoColor=white) | ![Python](https://img.shields.io/badge/Python-f48fb1?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-f8bbd0?style=for-the-badge&logo=git&logoColor=c2185b) |
-| | ![CSS](https://img.shields.io/badge/CSS3-fce4ec?style=for-the-badge&logo=css3&logoColor=c2185b) | | | ![GitHub](https://img.shields.io/badge/GitHub-fce4ec?style=for-the-badge&logo=github&logoColor=c2185b) |
-| | ![JavaScript](https://img.shields.io/badge/JavaScript-f48fb1?style=for-the-badge&logo=javascript&logoColor=white) | | | ![Insomnia](https://img.shields.io/badge/Insomnia-f8bbd0?style=for-the-badge&logo=insomnia&logoColor=c2185b) |
-| | | | | ![Vercel](https://img.shields.io/badge/Vercel-fce4ec?style=for-the-badge&logo=vercel&logoColor=c2185b) |
-| | | | | ![Canva](https://img.shields.io/badge/Canva-f48fb1?style=for-the-badge&logo=canva&logoColor=white) |
-| | | | | ![Cisco](https://img.shields.io/badge/Cisco-f8bbd0?style=for-the-badge&logo=cisco&logoColor=c2185b) |
-| | | | | ![Figma](https://img.shields.io/badge/Figma-fce4ec?style=for-the-badge&logo=figma&logoColor=c2185b) |
+<div align="center">
 
----
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 10px; width: 160px;"><b>📱 Mobile Dev</b></td>
+    <td align="center" style="border: none; padding: 10px; width: 160px;"><b>🌐 Web Dev</b></td>
+    <td align="center" style="border: none; padding: 10px; width: 160px;"><b>🗄️ Database</b></td>
+    <td align="center" style="border: none; padding: 10px; width: 160px;"><b>💻 Languages</b></td>
+    <td align="center" style="border: none; padding: 10px; width: 160px;"><b>🛠️ Tools</b></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/Android-f48fb1?style=for-the-badge&logo=android&logoColor=white" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/ASP.NET%20Core-fce4ec?style=for-the-badge&logo=dotnet&logoColor=c2185b" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/MySQL-fce4ec?style=for-the-badge&logo=mysql&logoColor=c2185b" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/Java-fce4ec?style=for-the-badge&logo=openjdk&logoColor=c2185b" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/VS%20Code-f48fb1?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/Android%20Studio-f8bbd0?style=for-the-badge&logo=androidstudio&logoColor=white" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/React-f48fb1?style=for-the-badge&logo=react&logoColor=white" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/MariaDB-f8bbd0?style=for-the-badge&logo=mariadb&logoColor=c2185b" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/C%23-f8bbd0?style=for-the-badge&logo=csharp&logoColor=c2185b" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/Visual%20Studio-fce4ec?style=for-the-badge&logo=visualstudio&logoColor=c2185b" /></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/HTML5-f8bbd0?style=for-the-badge&logo=html5&logoColor=c2185b" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/SQLite-f48fb1?style=for-the-badge&logo=sqlite&logoColor=white" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/Python-f48fb1?style=for-the-badge&logo=python&logoColor=white" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/Git-f8bbd0?style=for-the-badge&logo=git&logoColor=c2185b" /></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/CSS3-fce4ec?style=for-the-badge&logo=css3&logoColor=c2185b" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/GitHub-fce4ec?style=for-the-badge&logo=github&logoColor=c2185b" /></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/JavaScript-f48fb1?style=for-the-badge&logo=javascript&logoColor=white" /></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/Insomnia-f8bbd0?style=for-the-badge&logo=insomnia&logoColor=c2185b" /></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/Vercel-fce4ec?style=for-the-badge&logo=vercel&logoColor=c2185b" /></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/Canva-f48fb1?style=for-the-badge&logo=canva&logoColor=white" /></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/Cisco-f8bbd0?style=for-the-badge&logo=cisco&logoColor=c2185b" /></td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"></td>
+    <td align="center" style="border: none; padding: 6px; width: 160px;"><img src="https://img.shields.io/badge/Figma-fce4ec?style=for-the-badge&logo=figma&logoColor=c2185b" /></td>
+  </tr>
+</table>
+
+</div>
 
 ## 🌷 GitHub Status
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=eunwia&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c2185b&icon_color=f48fb1&text_color=c2185b&rank_icon=github&card_width=420" height="180" />
+<div align="center">
+
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=eunwia&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c2185b&icon_color=f48fb1&text_color=c2185b&rank_icon=github&card_width=380" height="180" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunwia&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c2185b&text_color=c2185b&card_width=420" height="180" />
+    <td style="border: none; padding: 8px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunwia&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c2185b&text_color=c2185b&card_width=380" height="180" />
     </td>
   </tr>
 </table>
 
----
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f48fb1&height=80&section=footer"/>
