@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="rain.png" alt="Trixette Rain" width="150" style="border-radius: 50%;" />
+<img src="rain.png" alt="Trixette Rain" width="350" style="border-radius: 50%;" />
 
 <br/>
 
