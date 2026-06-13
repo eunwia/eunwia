@@ -1,8 +1,7 @@
 <div align="center">
 
 <div align="right">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwia&count_bg=%23ffb6c1&title_bg=%23f9c4d2&icon=github&icon_color=%236e6e6e&title=visitors&edge_flat=false" />
-</div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=eunwia.eunwia&left_color=ffb6c1&right_color=f9c4d2&left_text=visitors" /></div>
 
 <img src="rain.png" alt="Trixette Rain" width="300" style="border-radius: 50%;" />
 <br/>
