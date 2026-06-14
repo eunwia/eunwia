@@ -16,7 +16,7 @@
 
 ## 🌷 Tech Stack & Skills
 
-<div align="center">
+<div>
 
 ![Android](https://img.shields.io/badge/Android-ffb6c1?style=for-the-badge&logo=android&logoColor=6e6e6e)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-f9c4d2?style=for-the-badge&logo=androidstudio&logoColor=6e6e6e)
