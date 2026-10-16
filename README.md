@@ -1,22 +1,26 @@
+
 <div align="center">
 
 <div align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=eunwia.eunwia&left_color=ffb6c1&right_color=f9c4d2&left_text=visitors" /></div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=eunwia.eunwia&left_color=ffb6c1&right_color=f9c4d2&left_text=visitors" />
+</div>
 
 <img src="rain.png" alt="Trixette Rain" width="300" style="border-radius: 50%;" />
-<br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=28&pause=1000&color=F4A7B9&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+Trixette+Rain!+%F0%9F%8C%B8;IT+Student+%7C+Aspiring+Developer+%7C+Designer+%F0%9F%8C%B8)
+<br/>
 
 <p>
   <img src="https://img.shields.io/badge/University%20of%20Cebu-IT%20Student-ffb6c1?style=for-the-badge&logo=graduation-cap&logoColor=white" />
   <img src="https://img.shields.io/badge/Cebu%20City-Philippines-f8c8d4?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
+
 </div>
+
+---
 
 ## 🌷 Tech Stack & Skills
 
-<div>
+<div align="center">
 
 ![Android](https://img.shields.io/badge/Android-ffb6c1?style=for-the-badge&logo=android&logoColor=6e6e6e)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-f9c4d2?style=for-the-badge&logo=androidstudio&logoColor=6e6e6e)
@@ -43,28 +47,32 @@
 
 </div>
 
-<br>
+---
+
+## 🌷 GitHub Stats
 
 <div align="center">
 
 <table border="0" style="border: none; border-collapse: collapse; background-color: #fff0f5;">
   <tr>
-    <td style="border: none; padding: 12px; border-radius: 12px; background-color: #fff0f5;">
-      <img src="https://github-readme-stats.vercel.app/api?username=eunwia&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c2185b&icon_color=f48fb1&text_color=c2185b&rank_icon=github&card_width=380" height="180" />
+    <td style="border: none; padding: 12px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=eunwia&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c2185b&icon_color=f48fb1&text_color=c2185b&rank_icon=github&card_width=380" height="180" alt="GitHub Statistics" />
     </td>
-    <td style="border: none; padding: 12px; border-radius: 12px; background-color: #fff0f5;">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=eunwia&hide_border=true&background=fff0f5&ring=f48fb1&fire=f48fb1&currStreakLabel=c2185b&sideLabels=c2185b&currStreakNum=c2185b&sideNums=c2185b&dates=f9a8c0" height="180" />
+    <td style="border: none; padding: 12px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=eunwia&hide_border=true&background=fff0f5&ring=f48fb1&fire=f48fb1&currStreakLabel=c2185b&sideLabels=c2185b&currStreakNum=c2185b&sideNums=c2185b&dates=f9a8c0" height="180" alt="GitHub Contribution Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="border: none; padding: 12px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunwia&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c2185b&text_color=c2185b&card_width=780" height="160" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunwia&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c2185b&text_color=c2185b&card_width=780" height="160" alt="Most Used Programming Languages" />
     </td>
   </tr>
 </table>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eunwia&bg_color=fff0f5&color=c2185b&line=f48fb1&point=f48fb1&hide_border=true&area=true&area_color=fcd5de" width="780" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eunwia/eunwia/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eunwia/eunwia/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/eunwia/eunwia/output/github-contribution-grid-snake.svg" width="780" />
+</picture>
 
 </div>
