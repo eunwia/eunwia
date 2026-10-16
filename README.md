@@ -45,14 +45,26 @@
 
 <br>
 
-## 🌷 GitHub Status
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eunwia&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c2185b&icon_color=f48fb1&text_color=c2185b&rank_icon=github&card_width=380" height="180" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunwia&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c2185b&text_color=c2185b&card_width=380" height="180" />
-</div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f48fb1&height=80&section=footer"/>
+<table border="0" style="border: none; border-collapse: collapse; background-color: #fff0f5;">
+  <tr>
+    <td style="border: none; padding: 12px; border-radius: 12px; background-color: #fff0f5;">
+      <img src="https://github-readme-stats.vercel.app/api?username=eunwia&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c2185b&icon_color=f48fb1&text_color=c2185b&rank_icon=github&card_width=380" height="180" />
+    </td>
+    <td style="border: none; padding: 12px; border-radius: 12px; background-color: #fff0f5;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=eunwia&hide_border=true&background=fff0f5&ring=f48fb1&fire=f48fb1&currStreakLabel=c2185b&sideLabels=c2185b&currStreakNum=c2185b&sideNums=c2185b&dates=f9a8c0" height="180" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="border: none; padding: 12px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunwia&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c2185b&text_color=c2185b&card_width=780" height="160" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eunwia&bg_color=fff0f5&color=c2185b&line=f48fb1&point=f48fb1&hide_border=true&area=true&area_color=fcd5de" width="780" />
+
 </div>
