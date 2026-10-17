@@ -22,8 +22,6 @@
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunwia&hide_border=true&bg_color=fff0f5&title_color=c2185b&text_color=c2185b&layout=donut-vertical&card_width=180" height="165" alt="Most Used Languages" />
 
-<br/><br/>
-
 <img src="https://raw.githubusercontent.com/eunwia/eunwia/output/github-contribution-grid-snake-dark.svg?v=2" width="760" alt="GitHub Contribution Snake" />
 
 </div>
