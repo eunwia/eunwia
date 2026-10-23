@@ -1,3 +1,6 @@
+<div align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=eunwia.eunwia&left_color=87ceeb&right_color=add8e6&left_text=visitors" />
+</div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=eunwia&show_icons=true&hide_border=true&bg_color=f0f8ff&title_color=1976d2&icon_color=64b5f6&text_color=1976d2&rank_icon=github&card_width=260" height="165" alt="GitHub Statistics" />
 &nbsp;
